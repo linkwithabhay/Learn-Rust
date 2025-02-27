@@ -17,3 +17,15 @@ Open the CLI inside the root directory and run below command:
 ```
 cargo run
 ```
+
+### Index
+
+- **Variables**
+  - [Number](./src/numbers.rs)
+  - [Char](./src/chars.rs)
+  - [String](./src/strings.rs)
+  - [Boolean](./src/booleans.rs)
+  - [Mutable Variables](./src/mut_variables.rs)
+  - [Type Declaration](./src/type_declaration.rs)
+  - [Type Inference](./src/type_inference.rs)
+  - [Type Casting](./src/type_casting.rs)
