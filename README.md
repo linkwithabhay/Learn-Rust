@@ -29,3 +29,12 @@ cargo run
   - [Type Declaration](./src/type_declaration.rs)
   - [Type Inference](./src/type_inference.rs)
   - [Type Casting](./src/type_casting.rs)
+
+* **Operators**
+  - [Arithmetic Operators](./src/arithmetic_operators.rs)
+  - [Modulo Operator](./src/modulo_operator.rs)
+  - [Arithmetic Shortcuts](./src/arithmetic_shortcuts.rs)
+  - [Comparison Operators](./src/comparison_operators.rs)
+  - [Logical Operators Part 1](./src/logical_operators_1.rs)
+  - [Logical Operators Part 2](./src/logical_operators_2.rs)
+  - [Logical Operators Part 3](./src/logical_operators_3.rs)

@@ -1,6 +1,13 @@
+mod arithmetic_operators;
+mod arithmetic_shortcuts;
 mod booleans;
 mod chars;
+mod comparison_operators;
 mod decorator;
+mod logical_operators_1;
+mod logical_operators_2;
+mod logical_operators_3;
+mod modulo_operator;
 mod mut_variables;
 mod numbers;
 mod strings;
@@ -27,4 +34,18 @@ fn main() {
     decorator::call("Type Inference", type_inference::learn)();
 
     decorator::call("Type Casting", type_casting::learn)();
+
+    decorator::call("Arithmetic Operators", arithmetic_operators::learn)();
+
+    decorator::call("Modulo Operator", modulo_operator::learn)();
+
+    decorator::call("Arithmetic Shortcuts", arithmetic_shortcuts::learn)();
+
+    decorator::call("Comparison Operators", comparison_operators::learn)();
+
+    decorator::call("Logical Operators Part 1", logical_operators_1::learn)();
+
+    decorator::call("Logical Operators Part 2", logical_operators_2::learn)();
+
+    decorator::call("Logical Operators Part 3", logical_operators_3::learn)();
 }
