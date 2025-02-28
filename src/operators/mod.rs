@@ -8,6 +8,7 @@ pub mod logical_operators_2;
 pub mod logical_operators_3;
 pub mod modulo_operator;
 
+/// Learn Operators.
 pub fn learn() {
     decorator::call("Arithmetic Operators", arithmetic_operators::learn)();
 
