@@ -38,3 +38,10 @@ cargo run
   - [Logical Operators Part 1](./src/operators/logical_operators_1.rs)
   - [Logical Operators Part 2](./src/operators/logical_operators_2.rs)
   - [Logical Operators Part 3](./src/operators/logical_operators_3.rs)
+
+- **Decision Making**
+  - [If Expressions](./src/decision_making/if_expressions.rs)
+  - [If-Else Expressions](./src/decision_making/if_else_expressions.rs)
+  - [Match Statement](./src/decision_making/match_statement.rs)
+  - [Nested If-Else](./src/decision_making/nested_if_else.rs)
+  - [Challenge](./src/decision_making/decision_making_challenge.rs)

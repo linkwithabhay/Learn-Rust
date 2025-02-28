@@ -1,3 +1,4 @@
+mod decision_making;
 mod operators;
 mod tools;
 mod variables;
@@ -11,4 +12,7 @@ fn main() {
 
     // Operators
     operators::learn();
+
+    // Decision Making
+    decision_making::learn();
 }
