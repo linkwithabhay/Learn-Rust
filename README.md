@@ -45,3 +45,9 @@ cargo run
   - [Match Statement](./src/decision_making/match_statement.rs)
   - [Nested If-Else](./src/decision_making/nested_if_else.rs)
   - [Challenge](./src/decision_making/decision_making_challenge.rs)
+
+* **Basic IO**
+  - [Printing to Console](./src/basic_io/printing_to_console.rs)
+  - [Reading User Input](./src/basic_io/reading_user_input.rs)
+  - [Basic IO - Challenge 1](./src/basic_io/basic_io_challenge_1.rs)
+  - [Basic IO - Challenge 2](./src/basic_io/basic_io_challenge_2.rs)

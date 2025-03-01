@@ -1,3 +1,4 @@
+mod basic_io;
 mod decision_making;
 mod operators;
 mod tools;
@@ -15,4 +16,7 @@ fn main() {
 
     // Decision Making
     decision_making::learn();
+
+    // Basic IO
+    basic_io::learn();
 }
