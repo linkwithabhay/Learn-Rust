@@ -51,3 +51,6 @@ cargo run
   - [Reading User Input](./src/basic_io/reading_user_input.rs)
   - [Basic IO - Challenge 1](./src/basic_io/basic_io_challenge_1.rs)
   - [Basic IO - Challenge 2](./src/basic_io/basic_io_challenge_2.rs)
+
+- **Project**
+  - [Project: Calculator App](./src/project_calculator_app/calculator_app.rs)

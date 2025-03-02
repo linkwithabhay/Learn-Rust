@@ -1,6 +1,7 @@
 mod basic_io;
 mod decision_making;
 mod operators;
+mod project_calculator_app;
 mod tools;
 mod variables;
 
@@ -19,4 +20,7 @@ fn main() {
 
     // Basic IO
     basic_io::learn();
+
+    // Project: Calculator App
+    project_calculator_app::learn();
 }
