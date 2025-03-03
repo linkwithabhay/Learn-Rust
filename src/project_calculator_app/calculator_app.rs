@@ -58,6 +58,7 @@ pub fn learn() {
     // Getting Numbers
     let num1_input = "11"; // comment this line to take user-input
     let num2_input = "33"; // comment this line to take user-input
+    println!("User Inputs: {}, {}", num1_input, num2_input); // comment this line to take user-input
     // uncomment below lines to take user-input
     /*
     let mut num1_input: String = String::new();  // uncomment this line to take user-input
