@@ -54,3 +54,13 @@ cargo run
 
 - **Project**
   - [Project: Calculator App](./src/project_calculator_app/calculator_app.rs)
+
+* **Loops**
+  - [For Loop](./src/loops/for_loop.rs)
+  - [While Loop](./src/loops/while_loop.rs)
+  - [Break Loop](./src/loops/break_loop.rs)
+  - [Continue Loop](./src/loops/continue_loop.rs)
+  - [Nested Loop](./src/loops/nested_loop.rs)
+  - [Loop Labels](./src/loops/loop_labels.rs)
+  - [Infinite Loop](./src/loops/infinite_loop.rs)
+  - [Loops - Challenge](./src/loops/loops_challenge.rs)

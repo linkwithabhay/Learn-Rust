@@ -1,5 +1,6 @@
 mod basic_io;
 mod decision_making;
+mod loops;
 mod operators;
 mod project_calculator_app;
 mod tools;
@@ -23,4 +24,7 @@ fn main() {
 
     // Project: Calculator App
     project_calculator_app::learn();
+
+    // Loops
+    loops::learn();
 }
