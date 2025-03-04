@@ -27,4 +27,7 @@ fn main() {
 
     // Loops
     loops::learn();
+
+    // Variable Bindings
+    variable_bindings::learn();
 }

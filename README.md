@@ -64,3 +64,8 @@ cargo run
   - [Loop Labels](./src/loops/loop_labels.rs)
   - [Infinite Loop](./src/loops/infinite_loop.rs)
   - [Loops - Challenge](./src/loops/loops_challenge.rs)
+
+- **Variable Bindings**
+  - [Scope](./src/variable_bindings/scope.rs)
+  - [Shadowing](./src/variable_bindings/shadowing.rs)
+  - [Variable Binding](./src/variable_bindings/variable_binding.rs)
