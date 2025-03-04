@@ -4,6 +4,7 @@ mod loops;
 mod operators;
 mod project_calculator_app;
 mod tools;
+mod variable_bindings;
 mod variables;
 
 /// Main function is the entrypoint of a rust program.
